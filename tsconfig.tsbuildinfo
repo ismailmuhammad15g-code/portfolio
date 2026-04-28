@@ -1,0 +1,1 @@
+{"root":["./vite.config.ts","./convex/github.ts","./convex/schema.ts","./convex/_generated/api.d.ts","./convex/_generated/dataModel.d.ts","./convex/_generated/server.d.ts","./src/routeTree.gen.ts","./src/router.tsx","./src/routes/__root.tsx","./src/routes/events.tsx","./src/routes/index.tsx"],"errors":true,"version":"5.9.3"}
